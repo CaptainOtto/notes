@@ -1,15 +1,11 @@
-# Useful software for game development
-
-# IDE's 
-
-I have found the most sucess with using different IDE's for different scenarios but here is my recommendations for them:
+# Visual Studio & Visual Studio Code IDE/Text editors
 
 ## Visual Studio
 https://visualstudio.microsoft.com/vs/
 
-Visual studio is usually a solid and plenty used bet. Works well in many situations such as your own engine, Unreal, Unity etc.
+Visual studio is a well known and lot used IDE that can be used for many different situations. For example, works great with c/c++ development for either own engine or Unreal Engine.
 
-Some nice extensions I use are:
+Some favorite extensions:
 - UnrealVS for Unreal. 
 - [Resharper](https://www.jetbrains.com/resharper/download/#section=offline-installer) great for Unreal development.
 - File icons - or similar extension to make the icons for different file types better.
