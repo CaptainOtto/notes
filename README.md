@@ -10,6 +10,7 @@
 - [Github Labels](/project_planning/githublabels.md)
 
 ## Unreal Engine
+[Release Notes 5.0](https://docs.unrealengine.com/5.0/en-US/unreal-engine-5-0-release-notes/) | [Download](https://www.unrealengine.com/en-US/download) | [Unreal Github](https://www.unrealengine.com/en-US/ue-on-github)
 - Lyra Game Sample | [Docs](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/)  | [Video Overview](https://www.youtube.com/watch?v=Fj1zCsYydD8) 
 - [EOS](https://dev.epicgames.com/en-US/home)
 - [Unreal Dev Community](https://dev.epicgames.com/community/?application=unreal_engine)
