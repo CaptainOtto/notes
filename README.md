@@ -29,6 +29,7 @@ Decided to gather different type of docs and notes, will keep updating over time
 - [Photoshop](https://www.adobe.com/se/products/photoshop)
 - [.DotNet](https://dotnet.microsoft.com/en-us/download)
 - [Python](https://www.python.org/downloads/)
+- [Git](https://git-scm.com/downloads)
 
 ## Fonts
 
