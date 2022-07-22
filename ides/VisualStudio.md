@@ -8,9 +8,11 @@ Visual studio well known IDE suited for many different use cases. For example wo
 
 ### Track with active file
 Helps a great deal when working with larger projects by actively syncing in the solution explorer what file you currently have open.
+
 ![image](https://user-images.githubusercontent.com/16833945/180403381-a7f29841-2973-4b9e-a5a1-8275a8bee586.png)
 
 If you want to always track the open file simply go to: Tools>Options>Projects & Solutions
+
 ![image](https://user-images.githubusercontent.com/16833945/180403802-6e4fbac5-4f55-4e62-ae44-560a7e8c334a.png)
 
 ### Toolbox
@@ -20,20 +22,24 @@ Add reusable code into the toolbox such as code snippets you want to reuse throu
 ### File navigation and more
 My preferred way of accessing files or searching is by two different ways:
 - CTRL F, by ctrl f you gain access of searching through documents, projects or solution which is very handy for quick searches in the file for functions etc.
+- 
 ![image](https://user-images.githubusercontent.com/16833945/180411555-545c7125-8062-4fe7-9b83-d0d661cef467.png)
 
 - CTRL T is something that i use quite alot I think it's called quick launch or so. Very useful for searching for files by pressing f in the search field then followed up by the filename. There are also other combinations you can use inside of this search bar such as T for type or search for members with ALT\ and more.
+- 
 ![image](https://user-images.githubusercontent.com/16833945/180412000-b89ab5a8-30da-46c2-9b49-2b132a436501.png)
 
 - Navigate to line by CTRL + G for navigating to a specific line in the said file.
 
 - Navigate to functions by clicking here and selecting a specific function.
+- 
 ![image](https://user-images.githubusercontent.com/16833945/180412201-97d8ca53-9a61-4375-81e1-1653255e9602.png)
 
 - CTRL + SHIFT + H for find and replace window for finding and replacing all of a occcurance.
 
 ### Vertical selection
 You can also select vertically by holding alt whilst clicking around.
+
 ![image](https://user-images.githubusercontent.com/16833945/180412493-bbf08356-1c7d-4171-81b2-4fe89b6f108f.png)
 
 ### Collapse all
