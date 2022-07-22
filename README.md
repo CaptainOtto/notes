@@ -1,5 +1,7 @@
 # Development notes
 
+Decided to gather different type of docs and notes, will keep updating over time.
+
 > **Documentation and notes in the form of different tips and tricks along with setup guides for development in different software, languages and more...**
 
 ## IDE
