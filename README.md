@@ -36,4 +36,4 @@
 - [Google fonts](https://fonts.google.com/)
 
 ## Colors
-[HEX Alpha Codes](general_notes/HEXColors.md)
+[HEX Alpha Codes](colors/HEXColors.md)
