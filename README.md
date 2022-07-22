@@ -1,2 +1,2 @@
 # notes
-Repository for keeping different notes for documentation, software, hardware, videos and more.
+Work in progress repository for adding different notes, tips and tricks etc for development.
