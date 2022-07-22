@@ -17,22 +17,23 @@ If you want to always track the open file simply go to: Tools>Options>Projects &
 
 ### Toolbox
 Add reusable code into the toolbox such as code snippets you want to reuse throughout your code base. Access it through View>Toolbox. Add new elements simply by dragging them into the toolbox.
+
 ![image](https://user-images.githubusercontent.com/16833945/180405624-471f0b6a-4adf-48d0-8424-14d6ac4f04eb.png)
 
 ### File navigation and more
 My preferred way of accessing files or searching is by two different ways:
 - CTRL F, by ctrl f you gain access of searching through documents, projects or solution which is very handy for quick searches in the file for functions etc.
-- 
+
 ![image](https://user-images.githubusercontent.com/16833945/180411555-545c7125-8062-4fe7-9b83-d0d661cef467.png)
 
 - CTRL T is something that i use quite alot I think it's called quick launch or so. Very useful for searching for files by pressing f in the search field then followed up by the filename. There are also other combinations you can use inside of this search bar such as T for type or search for members with ALT\ and more.
-- 
+
 ![image](https://user-images.githubusercontent.com/16833945/180412000-b89ab5a8-30da-46c2-9b49-2b132a436501.png)
 
 - Navigate to line by CTRL + G for navigating to a specific line in the said file.
 
 - Navigate to functions by clicking here and selecting a specific function.
-- 
+
 ![image](https://user-images.githubusercontent.com/16833945/180412201-97d8ca53-9a61-4375-81e1-1653255e9602.png)
 
 - CTRL + SHIFT + H for find and replace window for finding and replacing all of a occcurance.
