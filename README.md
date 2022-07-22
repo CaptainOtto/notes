@@ -17,11 +17,13 @@
 - [Building worlds in Fortnite with Unreal](https://www.youtube.com/watch?v=w3tTbVNkuwA) - UE 4 2020.
 - [Setup Unreal for Sublime](https://www.youtube.com/watch?v=94FvzO1HVzY&t=678s)
 
-## Work Apps
+## General Work software
 - [Stretchly](https://github.com/hovancik/stretchly) reminder app for taking breaks.
 - [Windows Sticky notes](https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW)
 - [Windows Terminal](https://github.com/microsoft/terminal)
   * [Oh my posh](https://ohmyposh.dev/)
+- [Figma](https://www.figma.com/) - for ui mockups and simple designs.
+- [Photoshop](https://www.adobe.com/se/products/photoshop)
 
 ## Fonts
 
