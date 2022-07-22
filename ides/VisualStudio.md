@@ -4,6 +4,23 @@ https://visualstudio.microsoft.com/vs/
 
 Visual studio well known IDE suited for many different use cases. For example works great working with Unreal Engine or any of your own engine or other application. With built in language supports such as:  C, C++, C++/CLI, Visual Basic .NET, C#, F#, JavaScript, TypeScript, XML, XSLT, HTML, and CSS. Can also add other by installation processes.
 
+
+## Extensions
+
+### General
+- [UnrealVS](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/DevelopmentSetup/VisualStudioSetup/UnrealVS/) for Unreal. 
+- [Resharper](https://www.jetbrains.com/resharper/download/#section=offline-installer) - aids your development with refactor, code generation and many more. Works great with Unreal Engine development.
+- [Visual Assist](https://marketplace.visualstudio.com/items?itemName=WholeTomatoSoftware.VisualAssist) - Another alternative to ReSharper that aids your development with refactor, code generation and more.
+- [File icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons) - or similar extension to make the icons for different file types better.
+- [Spellchecker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater) - are a few very good for keeping the english correct aswell.
+- [NuGet Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - A collection of tools to automate the process of downloading, installing, upgrading, configuring, and removing packages from a VS Project.
+- [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) - brings github flow into visual studio.
+- [Image Optimizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer) - helps optimize images such as jpg, png and more.
+
+### Visuals
+Theme wise I usually go with the standard built in ones or:
+[Github Themes](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
+
 ## Tips
 
 ### Track with active file
@@ -61,19 +78,3 @@ or a inside the editor powershell:
 
 For git there are a couple of extensions named below that you can get and then access at the tab through the git tab or accessing the terminal through View>Terminal.
 
-
-## Extensions
-
-### General
-- [UnrealVS](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/DevelopmentSetup/VisualStudioSetup/UnrealVS/) for Unreal. 
-- [Resharper](https://www.jetbrains.com/resharper/download/#section=offline-installer) - aids your development with refactor, code generation and many more. Works great with Unreal Engine development.
-- [Visual Assist](https://marketplace.visualstudio.com/items?itemName=WholeTomatoSoftware.VisualAssist) - Another alternative to ReSharper that aids your development with refactor, code generation and more.
-- [File icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons) - or similar extension to make the icons for different file types better.
-- [Spellchecker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater) - are a few very good for keeping the english correct aswell.
-- [NuGet Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - A collection of tools to automate the process of downloading, installing, upgrading, configuring, and removing packages from a VS Project.
-- [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) - brings github flow into visual studio.
-- [Image Optimizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer) - helps optimize images such as jpg, png and more.
-
-### Visuals
-Theme wise I usually go with the standard built in ones or:
-[Github Themes](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubThemes)
