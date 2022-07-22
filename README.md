@@ -27,6 +27,8 @@ Decided to gather different type of docs and notes, will keep updating over time
   * [Oh my posh](https://ohmyposh.dev/)
 - [Figma](https://www.figma.com/) - for ui mockups and simple designs.
 - [Photoshop](https://www.adobe.com/se/products/photoshop)
+- [.DotNet](https://dotnet.microsoft.com/en-us/download)
+- [Python](https://www.python.org/downloads/)
 
 ## Fonts
 
