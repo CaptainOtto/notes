@@ -50,6 +50,17 @@ Very useful trick when you have very large files and want to work on something s
 Modify your navigational bar by removing and adding buttons that you rarely or frequenty use by simply clicking on the button shown here.
 ![image](https://user-images.githubusercontent.com/16833945/180412860-aa4f84a7-639b-43a3-af7a-2c9fd1b67f28.png)
 
+## Git
+One maybe overlooked thing sometimes when working with source control and visual studio is using git inside the editor. Either can be done with the git window:
+
+![image](https://user-images.githubusercontent.com/16833945/180413580-a86d0cb9-79f0-4205-9388-2a8850be2163.png)
+
+or a inside the editor powershell:
+
+![image](https://user-images.githubusercontent.com/16833945/180413646-0f67273c-7ff5-4eb5-902e-2cb57be7cd4b.png)
+
+For git there are a couple of extensions named below that you can get and then access at the tab through the git tab or accessing the terminal through View>Terminal.
+
 
 ## Extensions
 
