@@ -1,2 +1,3 @@
-# notes
-Work in progress repository for adding different notes, tips and tricks etc for development.
+# Development notes
+
+Here I will be adding documentation and notes in the form of different tips and tricks along with setup guides for development in different software, languages etc.
