@@ -34,3 +34,6 @@
 
 ### Fonts for development
 - [Google fonts](https://fonts.google.com/)
+
+## Colors
+[HEX Alpha Codes](general_notes/HEXColors.md)
