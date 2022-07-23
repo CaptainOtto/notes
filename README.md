@@ -1,4 +1,4 @@
-# Development notes
+# notes
 
 Decided to gather different type of docs and notes, will keep updating over time.
 
