@@ -31,6 +31,9 @@ Decided to gather different type of docs and notes, will keep updating over time
 - [Python](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads)
 
+## Art
+- [Tutorials](/art/Tutorials.md)
+
 ## Fonts
 
 ### Dev Fonts
