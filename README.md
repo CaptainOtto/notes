@@ -20,6 +20,9 @@ Decided to gather different type of docs and notes, will keep updating over time
 - [Building worlds in Fortnite with Unreal](https://www.youtube.com/watch?v=w3tTbVNkuwA) - UE 4 2020.
 - [Setup Unreal for Sublime](https://www.youtube.com/watch?v=94FvzO1HVzY&t=678s)
 
+## [Unity](/unity/unity.md)
+- [Package template](https://github.com/CaptnJohn/unity-package-template) 
+
 ## General Work software
 - [Stretchly](https://github.com/hovancik/stretchly) reminder app for taking breaks.
 - [Windows Sticky notes](https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW)
