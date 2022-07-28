@@ -11,7 +11,7 @@ Decided to gather different type of docs and notes, will keep updating over time
 ## Project Planning
 - [Github Labels](/project_planning/githublabels.md)
 
-## [Unreal Engine](/unreal_engine/UnrealEngine.md)
+## [Unreal Engine](https://www.unrealengine.com/en-US)
 [Release Notes 5.0](https://docs.unrealengine.com/5.0/en-US/unreal-engine-5-0-release-notes/) | [Download](https://www.unrealengine.com/en-US/download) | [Unreal Github](https://www.unrealengine.com/en-US/ue-on-github)
 - Lyra Game Sample | [Docs](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/)  | [Video Overview](https://www.youtube.com/watch?v=Fj1zCsYydD8) 
 - [EOS](https://dev.epicgames.com/en-US/home)
@@ -20,7 +20,7 @@ Decided to gather different type of docs and notes, will keep updating over time
 - [Building worlds in Fortnite with Unreal](https://www.youtube.com/watch?v=w3tTbVNkuwA) - UE 4 2020.
 - [Setup Unreal for Sublime](https://www.youtube.com/watch?v=94FvzO1HVzY&t=678s)
 
-## [Unity](/unity/unity.md)
+## [Unity](https://unity.com/)
 - [Package template](https://github.com/CaptnJohn/unity-package-template) 
 
 ## General Work software
