@@ -23,7 +23,7 @@ Decided to gather different type of docs and notes, will keep updating over time
 ## [Unity](https://unity.com/)
 - [Package template](https://github.com/CaptnJohn/unity-package-template) 
 
-## General Work software
+## General work software&/applications
 - [Stretchly](https://github.com/hovancik/stretchly) reminder app for taking breaks.
 - [Windows Sticky notes](https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW)
 - [Windows Terminal](https://github.com/microsoft/terminal)
@@ -33,6 +33,7 @@ Decided to gather different type of docs and notes, will keep updating over time
 - [.DotNet](https://dotnet.microsoft.com/en-us/download)
 - [Python](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads)
+- [.gitignore generation](https://www.toptal.com/developers/gitignore)
 
 ## Art
 - [Tutorials](/art/Tutorials.md)
