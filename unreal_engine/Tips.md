@@ -1,5 +1,8 @@
 # Tips and Tricks
 
+## General
+* https://github.com/Allar/ue5-style-guide#bp-vars - Unreal engine style guide.
+
 ## Textures 
 * Textures should be power of 2 if you want them to be able to
 be streamed or mip mapped.
@@ -7,11 +10,17 @@ be streamed or mip mapped.
 * make sure to pack grayscale Textures into seperate channels.
 * Dont have textures like specularity if you need to. Sometimes a float value is enough.
 
-# Blueprints
+## Blueprints
 * https://www.unrealdirective.com/tip/timers - Timers.
 * https://www.unrealdirective.com/tip/timers-and-the-create-event-node - Create event node.
 * https://www.unrealdirective.com/tip/function-parameter-descriptions C++ function parameter descriptions.
+* https://www.unrealdirective.com/articles/blueprint-variables-what-you-need-to-know - Blueprint variables.
+* https://docs.unrealengine.com/5.0/en-US/blueprint-variables-in-unreal-engine/ - Blueprint variables from epic.
 
+### Replication 
+https://docs.unrealengine.com/4.27/en-US/Resources/ContentExamples/Networking/1_3/ - Variable replication.
+https://docs.unrealengine.com/4.27/en-US/Resources/ContentExamples/Networking/1_4/ - Rep notify.
+https://docs.unrealengine.com/5.0/en-US/conditional-property-replication-in-unreal-engine/ - coditional replication.
 
 ## Materials
 
@@ -36,7 +45,7 @@ be streamed or mip mapped.
 * https://www.unrealdirective.com/tip/wire-manipulation-shortcuts - Wire shortcuts.
 * https://www.unrealdirective.com/tip/dumpticks - Dump ticks command, to dump info about ticks.
 * https://www.unrealdirective.com/tip/asset-picker - Asset picker.
-
+* https://www.unrealdirective.com/articles/blueprint-variables-what-you-need-to-know - Some best practices in the bottom of the page.
 
 ## Other
 
