@@ -28,4 +28,5 @@ https://docs.unrealengine.com/5.0/en-US/common-ui-quickstart-guide-for-unreal-en
 I also like to inherit from the base classes that we are using for widgets if I later on want to add additional or change default behaviours.
 
 Such as:
+
 ![image](https://user-images.githubusercontent.com/16833945/212734526-1c5dd1c2-de0d-43c3-9fb7-f77e9816db0c.png)
