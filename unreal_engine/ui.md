@@ -3,7 +3,9 @@
 
 For setting up a new project with the ui there are some things I like to start of with doing:
 
-DPI curve:
+## DPI settings
+
+Curve:
 ![image](https://user-images.githubusercontent.com/16833945/212676660-8e1170bc-c104-4d5d-aeab-a08e6f477ec2.png)
 DPI Curve values example
 
