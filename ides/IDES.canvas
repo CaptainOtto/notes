@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"84f5e87b26db3771","x":-920,"y":-520,"width":2600,"height":4760,"type":"file","file":"ides/VisualStudio.md"},
+		{"id":"4ab9890c16bd67fe","x":1720,"y":-520,"width":1694,"height":1563,"type":"file","file":"ides/VisualStudioCode.md"}
+	],
+	"edges":[]
+}
