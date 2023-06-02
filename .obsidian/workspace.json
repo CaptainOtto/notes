@@ -11,14 +11,11 @@
             "id": "04e8bee8254a2785",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ides/IDES.canvas",
-                "viewState": {
-                  "x": 1950.282362904773,
-                  "y": 1241.587640863758,
-                  "zoom": -1.5999999999999999
-                }
+                "file": "unreal_engine/UnrealEngine.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ides/IDES.canvas",
+                "file": "unreal_engine/UnrealEngine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ides/IDES.canvas",
+                "file": "unreal_engine/UnrealEngine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ides/IDES.canvas"
+                "file": "unreal_engine/UnrealEngine.md"
               }
             }
           }
@@ -151,24 +148,25 @@
   },
   "active": "04e8bee8254a2785",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "unreal_engine/ui/scaleable.md",
+    "README.md",
+    "unreal_engine/blueprints.md",
+    "unreal_engine/UnrealEngine.md",
+    "unreal_engine/logging.md",
+    "ides/IDES.canvas",
     "unreal_engine/ui.md",
     "unreal_engine/UnrealEngine.canvas",
     "unreal_engine/textures.md",
     "unreal_engine/replication.md",
-    "unreal_engine/logging.md",
     "unreal_engine/general.md",
     "unreal_engine/editor.md",
     "unreal_engine/command_line.md",
-    "unreal_engine/blueprints.md",
     "unity/Unity.md",
     "ui/UIUXLinks.md",
     "project_planning/githublabels.md",
-    "ides/IDES.canvas",
     "ides/VisualStudio.md",
     "ides/VisualStudioCode.md",
-    "unreal_engine/UnrealEngine.md",
-    "unreal_engine/ui/scaleable.md",
-    "Untitled.canvas",
     "2023-06-02.md"
   ]
 }
